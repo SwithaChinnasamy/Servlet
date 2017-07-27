@@ -668,6 +668,32 @@ This page contains fields required for student details which is used as an input
           }  
           }
 ```
+## Screenshot
+![login](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/login.png)
+
+![index](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud1.png)
+
+![insert values](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud2.png)
+
+![insert redirect page](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud4.png)
+
+![Display](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud5.png)
+
+![Input for Delete](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud6.png)
+
+![Display database after delete](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud7.png)
+
+![Input for Update](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud8.png)
+
+![Details from database for alter](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud9.png)
+
+![Display after changes](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud10.png)
+
+![Response Email](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud13.png)
+
+![Structure of Database](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud11.png)
+
+![Final Database Result](https://github.com/SindhujaSelvi/ServletCoding-1/blob/master/src/main/webapp/images/crud12.png)
 
 
 
